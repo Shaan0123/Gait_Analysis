@@ -1,3 +1,3 @@
-# Gait_Analysis
+# First_Project
 First Repository
 First Commit
